@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dionysiihalicar00unkngoog_0492.png"; bbox 0 0 673 1190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 32 368 557 499">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 32 368 557 499">
+     <span class='ocr_line' id='line_1_1' title="bbox 32 368 557 429; baseline -0.006 -13"><span class='ocrx_word' id='word_1_1' title='bbox 32 379 262 416; x_wconf 81' lang='lat' dir='ltr'>S1M0le</span> <span class='ocrx_word' id='word_1_2' title='bbox 304 368 557 429; x_wconf 66' lang='lat' dir='ltr'><strong>BchQvn</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 104 449 472 499; baseline -0.005 -2"><span class='ocrx_word' id='word_1_3' title='bbox 104 449 294 497; x_wconf 34' lang='lat' dir='ltr'><strong>*EXEMPLA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 322 463 472 499; x_wconf 67' lang='grc' dir='ltr'><strong>ιΑἮΝΑ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 66 539 524 571">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 66 539 524 571">
+     <span class='ocr_line' id='line_1_3' title="bbox 66 539 524 571; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 66 552 170 570; x_wconf 75' lang='lat' dir='ltr'>GRAECIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 194 551 306 570; x_wconf 81' lang='lat' dir='ltr'>moNst</span> <span class='ocrx_word' id='word_1_7' title='bbox 327 539 524 571; x_wconf 52' lang='lat' dir='ltr'><strong>nssspofinznfflm.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
